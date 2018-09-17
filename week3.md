@@ -1,8 +1,10 @@
 ## HTML
-- h${num1}*4
-
+- h${num1}*4再按tab
 ```html
-h${num1}*4
+    <h1>num1</h1>
+    <h2>num2</h2>
+    <h3>num3</h3>
+    <h4>num4</h4>
 ```
 ----
 ## CSS
