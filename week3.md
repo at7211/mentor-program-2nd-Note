@@ -1,5 +1,5 @@
 ## HTML
-- h${num1}*4再按tab
+- h${num$}*4再按tab
 ```html
     <h1>num1</h1>
     <h2>num2</h2>
