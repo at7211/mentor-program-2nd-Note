@@ -1,5 +1,9 @@
 ## HTML
-- asdasd
+- h${num1}*4
+
+``html
+h${num1}*4
+``
 ----
 ## CSS
 - div 
@@ -10,3 +14,5 @@
 ### box
 - margin 對外框的距離
 - padding 內邊距離
+- box-sizing: border-box 會算整個box的長寬，方便設定你預想的box長寬
+- display:inline-block 一行之內可以有很多inlinblock
